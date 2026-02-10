@@ -1,3 +1,8 @@
+---
+name: Grokipedia
+description: Search and fetch articles from Grokipedia.com — xAI's AI-generated encyclopedia (like Wikipedia but written by Grok). Use when asked about topics that might have a Grokipedia article, or when the user explicitly mentions Grokipedia.
+---
+
 # Grokipedia Parser
 
 Search and fetch articles from [Grokipedia.com](https://grokipedia.com) — xAI's AI-generated encyclopedia.
